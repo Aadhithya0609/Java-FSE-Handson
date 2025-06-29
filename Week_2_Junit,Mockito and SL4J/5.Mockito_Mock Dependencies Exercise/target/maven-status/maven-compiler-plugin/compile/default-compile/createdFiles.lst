@@ -1,0 +1,5 @@
+com\example\service\UserService.class
+com\example\entity\User.class
+com\example\repository\UserRepository.class
+com\example\SpringMockExercisesApplication.class
+com\example\controller\UserController.class
