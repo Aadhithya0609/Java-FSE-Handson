@@ -1,0 +1,15 @@
+.container {
+  border: 2px solid #2196F3;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 400px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #0d47a1;
+  text-align: center;
+}
